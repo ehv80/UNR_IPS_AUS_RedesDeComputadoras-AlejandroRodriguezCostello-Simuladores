@@ -1,0 +1,52 @@
+EL SOFTWARE DE OPNET "IT Guru Academic Edition 9.1"
+Se puede descargar de la web de sus creadores.
+
+Para ello primero deben acceder a la URL: 
+	
+	http://www.opnet.com/itguru-academic/registration.html
+
+Observarán que se abre una pequeña ventana solicitando usuario y clave.
+Solo clickeen en Aceptar varias veces hasta que los redireccione hacia 
+esta otra URL:
+
+	https://enterprise37.opnet.com/4dcgi/REG_TransactionCode
+
+Aquí deben clickear en "New User" que los redireccionará a la URL:
+	
+	http://enterprise37.opnet.com/SIGNUP_NewUser
+
+Aquí deberán registrarse, dejando una dirección de e-mail a la que luego 
+le enviarán los datos necesarios para obtener la CLAVE DE ACTIVACIÓN, es
+decir el usuario y la clave de acceso.
+
+El programa de instalación lo pueden descargar desde la URL:
+
+	http://enterprise37.opnet.com/4dcgi/DOWNLOAD_HOME
+
+
+Cuando instalan por primera vez el programa e inician su ejecución, 
+
+les aparecerá una ventana con 2 opciones, allí elijan 
+
+	"License Managment"(o similar). 
+
+De este modo se abrirá 
+
+	una nueva ventana con un "License Request Code" 
+	(Código de solicitud de Licencia) 
+
+que deberán copiar, y a su vez se les abrirá 
+
+	una ventana del navegador web predeterminado,
+	con una página en la que deben ingresar este código y 
+	presionar en "Submit" para obtener el
+ 
+	"License Approval Code". 
+
+Entonces copian "la Licencia" y 
+
+	la pegan en el campo apropiado de la ventana del 
+	programa de activación, clickeando luego en "Next".
+
+Así la Licencia debería estar activada ahora.
+Solo necesitan cerrar y volver a ejecutar "IT Guru Academic Edition 9.1".

@@ -1,0 +1,64 @@
+IT GURU ACADEMIC EDITION 9.1
+----------------------------
+
+You must register this product to activate it for use.
+
+The next screen will show the "License Request Code" to enter at the
+product activation website.
+
+After OPNET launches a web browser and connects to the product activation
+website, follow the instructions to enter your "License Request Code."
+
+--------------------------------------------------------------------------
+
+1) You should see a web browser come up shortly.  If no browser comes up,
+   bring a browser up on your own and go to the following address:
+   http://www.opnet.com/itguru-academic/registration.html
+
+2) Follow the instructions on the web page to activate this product.
+
+3) After you have obtained a "License Approval Code" from the web,
+   click "Next" in this dialog box.
+
+--------------------------------------------------------------------------
+
+	License Request Code: 4B97.5931.B5F1
+
+	----------------------------------------------------------------
+	To activate IT Guru Academic Edition 9.1, you will need to paste
+	this code into IT Guru as follows:
+
+	1) 	Copy the License Approval Code below to the clipboard.
+
+  			F897.A2FD.6F59.5EFE.64E9.CF16
+  	 
+
+	2) 	Click on the "Next" button in the 
+		IT Guru Academic Edition 9.1
+		software if you have not already done so. 
+		You should see a 
+		"License Transaction - Enter License Approval Code"
+		dialog box.
+
+	3) 	Click on the "Paste from clipboard" button in IT Guru 
+		to paste the License Approval Code into the 
+		"License Approval Code" field in the dialog box.
+
+	4) 	Click "Next" in IT Guru.
+  	 
+
+	Your license should now be activated.
+
+	Restart the application to run IT Guru Academic Edition 9.1.
+	----------------------------------------------------------------
+
+
+--------------------------------------------------------------------------
+
+REGISTRADO EN ESA WEB CON:
+
+	USERNAME:	eze080
+
+	CLAVE:		fop5a6ie
+
+--------------------------------------------------------------------------

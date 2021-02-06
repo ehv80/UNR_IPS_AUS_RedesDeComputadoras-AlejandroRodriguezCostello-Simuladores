@@ -1,0 +1,48 @@
+AUS - REDES - RODRIGUEZ COSTELLO, ALEJANDRO C.
+
+REGISTRACIÓN EN OPNET IT GURU ACADEMIC EDITION
+---------------------------------------------------------------------------
+THANK YOU FOR REGISTERING WITH OPNET TECHNOLOGIES.
+
+Please use the username and password below to download OPNET IT Guru
+Academic Edition.
+
+       username eze080
+       password fop5a6ie
+
+Please save your username and password because you will need them to access
+important information on OPNET's website, including the web pages
+referenced below.
+
+If you do not already have the IT Guru Academic Edition installer, download
+the software from here:
+       http://www.opnet.com/itguru-academic/download.html
+
+Once you have downloaded the installer, run it to install the software.
+Then run the software, which will guide you through the product activation
+process.
+
+For additional information related to IT Guru Academic Edition, including
+FAQs:
+       http://www.opnet.com/itguru-academic/home.html
+
+
+About IT Guru Academic Edition
+OPNET IT Guru Academic Edition provides a virtual environment for modeling,
+analyzing, and predicting the performance of IT infrastructures, including
+applications, servers, and networking technologies. Based on OPNET's
+award-winning IT Guru product, Academic Edition is designed to complement
+specific lab exercises that teach fundamental networking concepts. The
+commercial version of IT Guru has broader capabilities designed for the
+enterprise IT environment, documentation, and professional support. OPNET
+software is used by thousands of commercial and government organizations
+worldwide, and by over 500 universities.
+
+About OPNET Technologies Inc.
+Founded in 1986, OPNET Technologies is the pioneer and leading provider of
+Intelligent Network Management software. For more information about OPNET,
+please visit us online at www.opnet.com <http://www.opnet.com/> .
+
+Please do not reply to this automated email message. If you have questions
+about OPNET IT Guru Academic Edition, please use the resources available
+from the following website: http://www.opnet.com/itguru-academic/home.html
